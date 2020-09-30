@@ -28,13 +28,13 @@ P(B) = P(A) . P(B|A) + P(~A) . P(B|~A)
 La probabilidad no es directa a una caso, se necesita pensar en las demás exploraciones. Cual es la probabilidad inicial, una vez aplicada las probabilidades directa a una población cual es el resultado posterior. 
 
 ```python
-					P(B|A) . P(A)
+          P(B|A) . P(A)
 P(A|B) = ---------------
-							P(B)
+               P(B)
 
-					P(H and E)
+            P(H and E)
 P(H|E) = ---------------
-							P(E)
+               P(E)
 
 ```
 
