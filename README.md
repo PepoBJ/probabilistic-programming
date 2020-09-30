@@ -54,7 +54,7 @@ P(E|H) = Likelihood = Certeza de que esta situación es correcta.
 
 ![./img/sintomas-cancer.png](./img/sintomas-cancer.png)
 
-![./img/sintomas-cancer-bayes.png](./img/sintomas-cancer-bayes.png)
+![./img/sintomas-cancer-bayes.png](./img/sintomas-cancer-bayes2.png)
 
 # Aplicaciones del Teorema de Bayes
 
