@@ -10,7 +10,7 @@ Existen librerías para ejecutar este computo, como Pyro de Uber.
 
 - Las probabilidades cuando de un subconjunto (&) son menos probables
 
-    ![probabilidad.png](probabilidad.png)
+    ![./img/probabilidad.png](./img/probabilidad.png)
 
     Ejm: Ser musico y consumir drogras es menos probable
 
@@ -38,7 +38,7 @@ P(H|E) = ---------------
 
 ```
 
-![teoremabayes.png](teoremabayes.png)
+![./img/teoremabayes.png](./img/teoremabayes.png)
 
 H = hipótesis
 
@@ -52,9 +52,9 @@ P(E|H) = Likelihood = Certeza de que esta situación es correcta.
 
 ## Analisis de síntomas
 
-![sintomas-cancer.png](sintomas-cancer.png)
+![./img/sintomas-cancer.png](./img/sintomas-cancer.png)
 
-![sintomas-cancer-bayes.png](sintomas-cancer-bayes.png)
+![./img/sintomas-cancer-bayes.png](./img/sintomas-cancer-bayes.png)
 
 # Aplicaciones del Teorema de Bayes
 
